@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Rollos de cinta kinesiológica en color terracota y azul">
+<rect width="600" height="600" fill="#efe7d8"/>
+<circle cx="300.0" cy="300.0" r="252.0" fill="#e5d9c3" fill-opacity=".55"/>
+<g>
+  <g>
+  <ellipse cx="398" cy="314" rx="99.75" ry="18.9" fill="#000" fill-opacity=".08"/>
+  <circle cx="390" cy="215" r="105" fill="#244a63"/>
+  <circle cx="384" cy="211" r="105" fill="#2f5d7c"/>
+  <circle cx="384" cy="211" r="67" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/><circle cx="384" cy="211" r="79" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/><circle cx="384" cy="211" r="91" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/><circle cx="384" cy="211" r="103" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/>
+  <circle cx="384" cy="211" r="52.5" fill="#e9dcc4"/>
+  <circle cx="384" cy="211" r="42.0" fill="#efe7d8"/>
+</g>
+  <path d="M250 470 L 520 430 L 530 482 L 260 522 Z" fill="#000" fill-opacity=".06"/>
+  <path d="M255 455 L 518 416 L 526 466 L 263 505 Z" fill="#b5532a"/>
+  <path d="M255 455 L 518 416" stroke="#fff" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M300 448 L 308 498 M360 439 L 368 489 M420 430 L 428 480 M480 421 L 488 471" stroke="#fff" stroke-opacity=".28" stroke-width="2" stroke-dasharray="4 5"/>
+  <g>
+  <ellipse cx="253" cy="474" rx="142.5" ry="27.0" fill="#000" fill-opacity=".08"/>
+  <circle cx="245" cy="330" r="150" fill="#8f3f1d"/>
+  <circle cx="239" cy="326" r="150" fill="#b5532a"/>
+  <circle cx="239" cy="326" r="92" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/><circle cx="239" cy="326" r="104" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/><circle cx="239" cy="326" r="116" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/><circle cx="239" cy="326" r="128" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/><circle cx="239" cy="326" r="140" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2"/>
+  <circle cx="239" cy="326" r="75.0" fill="#e9dcc4"/>
+  <circle cx="239" cy="326" r="60.0" fill="#efe7d8"/>
+</g>
+  <path d="M245 480 L 260 480 C 300 482, 330 490, 360 505 L 352 520 C 320 506, 290 500, 245 498 Z" fill="#c4643a"/>
+</g>
+</svg>
