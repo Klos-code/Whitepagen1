@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ativo Sport GT">
+<rect width="64" height="64" rx="14" fill="#1f4d3a"/>
+<path d="M14 48 L32 14 L50 48" fill="none" stroke="#fbf8f2" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M10 40 C 22 34, 38 34, 54 40" fill="none" stroke="#d66a3b" stroke-width="5" stroke-linecap="round"/>
+</svg>
