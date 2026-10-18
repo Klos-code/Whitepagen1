@@ -12,6 +12,6 @@ Static store site (GitHub Pages, domain from `CNAME`). Spanish (es-GT), prices i
 
 ## Before launch
 - Forms are sent through formsubmit.co to `contacto@activosportgt.com`. The first submission sends an activation email to that address; click the link in it.
-- Product prices are set in two places: the HTML pages and the `PRODUCTS` object in `assets/js/main.js`.
+- Product prices are set in two places: the HTML pages and `assets/js/products.js`.
 - Meta Pixel: insert its code into the `loadTracking()` function in `assets/js/main.js` (it loads only after consent).
 - Replace the illustrations in `assets/img/` with real photos of your products when you have them.

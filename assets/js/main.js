@@ -8,32 +8,7 @@
   var SHIPPING_FEE = 30;
   var FREE_SHIPPING_FROM = 300;
 
-  var PRODUCTS = {
-    'rodillera-compresion': {
-      name: 'Rodillera Deportiva de Compresión',
-      price: 149,
-      img: 'assets/img/rodillera.svg',
-      url: 'products/rodillera-compresion.html'
-    },
-    'plantillas-deportivas': {
-      name: 'Plantillas Ortopédicas Deportivas',
-      price: 129,
-      img: 'assets/img/plantillas.svg',
-      url: 'products/plantillas-deportivas.html'
-    },
-    'kinesiotape': {
-      name: 'Cinta Kinesiológica (Kinesiotape)',
-      price: 89,
-      img: 'assets/img/kinesiotape.svg',
-      url: 'products/kinesiotape.html'
-    },
-    'tobillera-ajustable': {
-      name: 'Soporte de Tobillo Ajustable',
-      price: 119,
-      img: 'assets/img/tobillera.svg',
-      url: 'products/tobillera-ajustable.html'
-    }
-  };
+  var PRODUCTS = window.ASGT_PRODUCTS || {};
 
   function money(n) { return 'Q' + n.toFixed(2); }
 
