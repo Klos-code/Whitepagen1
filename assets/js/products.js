@@ -3,61 +3,61 @@ window.ASGT_PRODUCTS = {
   "rodillera-compresion": {
     "name": "Rodillera Deportiva de Compresión",
     "price": 149,
-    "img": "assets/img/rodillera.svg",
+    "img": "assets/img/productos/rodillera-compresion.webp",
     "url": "products/rodillera-compresion.html"
   },
   "plantillas-deportivas": {
     "name": "Plantillas Ortopédicas Deportivas",
     "price": 129,
-    "img": "assets/img/plantillas.svg",
+    "img": "assets/img/productos/plantillas-deportivas.webp",
     "url": "products/plantillas-deportivas.html"
   },
   "kinesiotape": {
     "name": "Cinta Kinesiológica (Kinesiotape)",
     "price": 89,
-    "img": "assets/img/kinesiotape.svg",
+    "img": "assets/img/productos/kinesiotape.webp",
     "url": "products/kinesiotape.html"
   },
   "tobillera-ajustable": {
     "name": "Soporte de Tobillo Ajustable",
     "price": 119,
-    "img": "assets/img/tobillera.svg",
+    "img": "assets/img/productos/tobillera-ajustable.webp",
     "url": "products/tobillera-ajustable.html"
   },
   "codera-compresion": {
     "name": "Codera Deportiva de Compresión",
     "price": 109,
-    "img": "assets/img/codera.svg",
+    "img": "assets/img/productos/codera-compresion.webp",
     "url": "products/codera-compresion.html"
   },
   "munequera-ajustable": {
-    "name": "Muñequera Deportiva Ajustable",
+    "name": "Muñequera Deportiva con Correa",
     "price": 69,
-    "img": "assets/img/munequera.svg",
+    "img": "assets/img/productos/munequera-ajustable.webp",
     "url": "products/munequera-ajustable.html"
   },
-  "medias-compresion": {
-    "name": "Medias Deportivas de Compresión",
+  "calcetines-deportivos": {
+    "name": "Calcetines Deportivos Transpirables",
     "price": 119,
-    "img": "assets/img/medias.svg",
-    "url": "products/medias-compresion.html"
+    "img": "assets/img/productos/calcetines-deportivos.webp",
+    "url": "products/calcetines-deportivos.html"
   },
   "faja-lumbar": {
     "name": "Faja Lumbar Deportiva",
     "price": 179,
-    "img": "assets/img/faja.svg",
+    "img": "assets/img/productos/faja-lumbar.webp",
     "url": "products/faja-lumbar.html"
   },
   "rodillo-espuma": {
     "name": "Rodillo de Espuma con Relieve",
     "price": 159,
-    "img": "assets/img/rodillo.svg",
+    "img": "assets/img/productos/rodillo-espuma.webp",
     "url": "products/rodillo-espuma.html"
   },
   "taloneras-gel": {
     "name": "Taloneras de Gel",
     "price": 79,
-    "img": "assets/img/taloneras.svg",
+    "img": "assets/img/productos/taloneras-gel.webp",
     "url": "products/taloneras-gel.html"
   }
 };
